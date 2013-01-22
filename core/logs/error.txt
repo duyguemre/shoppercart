@@ -1,0 +1,95 @@
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: modules in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\column_left.tpl on line 1
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: modules in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\column_right.tpl on line 1
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: heading_title in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\featured.tpl on line 2
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: products in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\featured.tpl on line 5
+2012-11-08 13:33:02 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\featured.tpl on line 5
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: modules in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\content_top.tpl on line 1
+2012-11-08 13:33:02 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\content_top.tpl on line 1
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: module in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 1
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: banners in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 3
+2012-11-08 13:33:02 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 3
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: module in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 9
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: limit in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 11
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: scroll in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\carousel.tpl on line 12
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: module in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 2
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: width in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 2
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: height in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 2
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: banners in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 3
+2012-11-08 13:33:02 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 3
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: module in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\slideshow.tpl on line 14
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: modules in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\content_bottom.tpl on line 1
+2012-11-08 13:33:02 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\content_bottom.tpl on line 1
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: informations in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 2
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_service in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 13
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: contact in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 15
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_contact in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 15
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: return in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 16
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_return in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 16
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: sitemap in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 17
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_sitemap in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 17
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_extra in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 21
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: manufacturer in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 23
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_manufacturer in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 23
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: voucher in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 24
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_voucher in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 24
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: affiliate in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 25
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_affiliate in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 25
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: special in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 26
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_special in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 26
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_account in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 30
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: account in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 32
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_account in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 32
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: order in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 33
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_order in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 33
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: wishlist in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 34
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_wishlist in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 34
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: newsletter in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 35
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: text_newsletter in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 35
+2012-11-08 13:33:02 - PHP Notice:  Undefined variable: powered in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\footer.tpl on line 43
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: languages in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\language.tpl on line 1
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: currencies in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\currency.tpl on line 1
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: heading_title in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\cart.tpl on line 3
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_items in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\cart.tpl on line 4
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: products in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\cart.tpl on line 6
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: vouchers in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\cart.tpl on line 6
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_empty in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\module\cart.tpl on line 48
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: direction in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 2
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: lang in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 2
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: title in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 5
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: base in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 6
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: description in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 7
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: keywords in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 10
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: icon in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 13
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: links in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 16
+2012-11-08 13:33:03 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 16
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: styles in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 20
+2012-11-08 13:33:03 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 20
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: scripts in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 31
+2012-11-08 13:33:03 - PHP Warning:  Invalid argument supplied for foreach() in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 31
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: google_analytics in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 44
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: logo in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 49
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: language in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 52
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: currency in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 53
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: cart in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 54
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: filter_name in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 57
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_search in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 60
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: logged in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 64
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_welcome in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 65
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: home in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_home in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: wishlist in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_wishlist in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: account in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_account in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: shopping_cart in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_shopping_cart in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: checkout in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: text_checkout in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 70
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: categories in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\header.tpl on line 72
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: header in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 1
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: column_left in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 1
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: column_right in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 1
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: content_top in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 2
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: heading_title in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 3
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: content_bottom in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 4
+2012-11-08 13:33:03 - PHP Notice:  Undefined variable: footer in D:\Nameless\Zend\Apache2\htdocs\opencart\catalog\view\theme\default\template\common\home.tpl on line 5
